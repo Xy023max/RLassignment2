@@ -21,7 +21,7 @@ each with custom rewards and dynamics.
 ## 📄 Files
 
 - `rla2.R`: Full R script with all methods and experiments.
-- `RL_assignment.pdf`: Final report with explanations, results, and visualizations.
+- `RLa2.pdf`: Final report with explanations, results, and visualizations.
 
 ## 📌 Requirements
 
